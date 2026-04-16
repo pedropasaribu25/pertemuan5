@@ -5,7 +5,7 @@
 Proyek ini adalah tugas Pertemuan 5 yang mengimplementasikan sistem Autentikasi (Login & Register) menggunakan **Expo Router**.
 
 ## 🔗 Link Penting
-* **Expo Snack Demo:** [MASUKKAN_LINK_SNACK_LO_DI_SINI]
+* **Expo Snack Demo:** [https://snack.expo.dev/@pedroopasaribu/pertemuan5]
 * **Repository:** https://github.com/pedropasaribu25/pertemuan5
 
 ## 🛠️ Fitur
